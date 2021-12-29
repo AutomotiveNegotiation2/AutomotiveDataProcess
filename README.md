@@ -1,6 +1,6 @@
 # AI-Compression-AVSensorData
 
-- **Contributors** : 강동묵, 장수현
+- **Contributors** : KETI(한국전자기술연구원)
 - **Task** : 차량 센서 데이터의 압축 기술 구현
 
 
