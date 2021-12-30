@@ -1,6 +1,7 @@
 # Sensor Data
 
-- 데이터가 대용량으로 NAS에 업로드 ( 링크 첨부 예정 )
+- Sensor Data DB 링크 (NAS)
+-  http://gofile.me/5iKaJ/OzaOqdfDB
 
 
 
